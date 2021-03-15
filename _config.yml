@@ -2,9 +2,9 @@
 ---
   comments: true
 ---
-name: "Dale Stephenson"
-title: "Dale Stephenson"
-description: "Dale Stephenson Journal - Bachelor of Information Technology, Undergraduate Degree"
+name: "Hayden Williams"
+title: "Hayden Williams"
+description: "Hayden Williams Journal - Bachelor of Information Technology, Undergraduate Degree"
 logo: 'assets/images/Teton.png'
 favicon: 'assets/images/Teton.png'
 baseurl: ''
@@ -35,7 +35,7 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
-url: https://d-stephenson.github.io
+url: https://GravitysAndroid.github.io
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
