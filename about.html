@@ -3,65 +3,78 @@ layout: page
 title: About
 ---
 
-{% if page.url == "/" %}    
+{% if page.url == "/" %}
 
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
-    <div class="section-title">
-        <h2><span>About</span></h2>
-    </div>
-    <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
+  <div class="section-title">
+    <h2><span>About</span></h2>
+  </div>
+  <div class="row">
+    {% for post in site.posts %} {% if post.featured == true %} {% include
+    featuredbox.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
-{% endif %}
-
-An adaptable and self-motivated Manager with an ambition to succeed. Someone who thrives on building positive relationships with a team through excellent verbal and written communication skills. Keen to exhibit the analytical thinking and strategic skills required in leadership and target driven role.<br>
-<br>
-Currently developing established skills and experience working towards a bachelors degree in Information Technology, majoring in Information Systems. More on <a href="https://www.linkedin.com/in/dale-stephenson-nz/">LinkedIn</a> and <a href="https://github.com/d-stephenson">GitHub.</a> <br> 
-<br>
+{% endif %} An adaptable and self-motivated Manager with an ambition to succeed.
+Someone who thrives on building positive relationships with a team through
+excellent verbal and written communication skills. Keen to exhibit the
+analytical thinking and strategic skills required in leadership and target
+driven role.<br />
+<br />
+Currently developing established skills and experience working towards a
+bachelors degree in Information Technology, majoring in Information Systems.
+More on
+<a href="https://www.linkedin.com/in/hayden-williams-463082190/">LinkedIn</a>
+and <a href="https://github.com/gravitysandroid">GitHub.</a> <br />
+<br />
 <h5>Personal Skills</h5>
 
-<b>Leadership & Conflict Resolution</b> <br>
-- Building a team of 8, taking responsibility for setting and monitoring the quality control standards.<br>
-- Bringing teams together under a company merger situation, valuing their input and ideas.<br>
-<br>
-<b>Time Management & Strategic Planning</b> <br>
-- Delivering monthly financial and operational reports to senior stakeholders. Completing bank reconciliations, VAT returns and payroll processing.<br>
-- Creating strategic business reviews to support mainstream bank funding up to £5M for asset acquisition.<br>
-<br>
-<b>Communication & Teamwork</b> <br>
-- Actively listen to customers with different circumstances and requirements.<br>
-- Remaining calm, appreciate the view of the customer and keeping the conversation on the topic to bring about a resolution.<br>
-<br>
-<b>Analytical & Research Skills</b> <br>
-- Assessing 3 years financial and operational data including KPI’s, identify cost savings and staffing requirements, research competitors and market trends.<br>
-- Working with numerous mapping and data archive programs to extract information dating back to the 1950s.<br>
-<br>
-<b>Adaptability & Working Under Pressure</b><br>
-- Managing up to 45 business clients, building relationships with clients and agents under challenging and often sensitive circumstances.<br>
-- Forming a three-person team to bring into effect departmental digital change in anticipation of the large-scale restructuring.<br>
-<br>
-<b>Self-Motivation & Creativity</b> <br>
-- Taking the initiative to instigate procedural change. During this process showing empathy to those whom the change affected, and gaining the support of the IT team.<br>
-- Creating and selling a successful baby clothing business with my partner, self taught Adobe Illustrator & Photoshop. <br>
-<br>
+<b>Leadership & Conflict Resolution</b> <br />
+- Building a team of 8, taking responsibility for setting and monitoring the
+quality control standards.<br />
+- Bringing teams together under a company merger situation, valuing their input
+and ideas.<br />
+<br />
+<b>Time Management & Strategic Planning</b> <br />
+- Delivering monthly financial and operational reports to senior stakeholders.
+Completing bank reconciliations, VAT returns and payroll processing.<br />
+- Creating strategic business reviews to support mainstream bank funding up to
+£5M for asset acquisition.<br />
+<br />
+<b>Communication & Teamwork</b> <br />
+- Actively listen to customers with different circumstances and requirements.<br />
+- Remaining calm, appreciate the view of the customer and keeping the
+conversation on the topic to bring about a resolution.<br />
+<br />
+<b>Analytical & Research Skills</b> <br />
+- Assessing 3 years financial and operational data including KPI’s, identify
+cost savings and staffing requirements, research competitors and market
+trends.<br />
+- Working with numerous mapping and data archive programs to extract information
+dating back to the 1950s.<br />
+<br />
+<b>Adaptability & Working Under Pressure</b><br />
+- Managing up to 45 business clients, building relationships with clients and
+agents under challenging and often sensitive circumstances.<br />
+- Forming a three-person team to bring into effect departmental digital change
+in anticipation of the large-scale restructuring.<br />
+<br />
+<b>Self-Motivation & Creativity</b> <br />
+- Taking the initiative to instigate procedural change. During this process
+showing empathy to those whom the change affected, and gaining the support of
+the IT team.<br />
+- Creating and selling a successful baby clothing business with my partner, self
+taught Adobe Illustrator & Photoshop. <br />
+<br />
 <b>Awards</b>
-<br>
-Level 5 NMIT - CCL Infrastructure Excellence Award 2019<br>
-<a href="https://www.nmit.ac.nz/news-article/show/nmit-information-technology-2020-prize-giving">Level 6 NMIT - Excellence Award in Information Technology</a> 
+<br />
+Level 5 NMIT - CCL Infrastructure Excellence Award 2019<br />
+<a
+  href="https://www.nmit.ac.nz/news-article/show/nmit-information-technology-2020-prize-giving"
+  >Level 6 NMIT - Excellence Award in Information Technology</a
+>
 <!-- Posts Index
 ================================================== -->
 <!-- <section class="recent-posts">
@@ -87,9 +100,8 @@ Level 5 NMIT - CCL Infrastructure Excellence Award 2019<br>
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
+  <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+  <span class="navigation" role="navigation">
     {% include pagination.html %}
-</span>
+  </span>
 </div>
-
