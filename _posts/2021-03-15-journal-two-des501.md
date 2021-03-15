@@ -4,7 +4,7 @@ title:  "Journal #Two [DES501] - Information Management"
 author: Dale Stephenson
 categories: [ DES501, Journal, Design and Development Concepts ]
 image: assets/images/DES501-J2.jpeg
-featured: true
+featured: false
 hidden: true
 ---
 <i>Information Management</i>
