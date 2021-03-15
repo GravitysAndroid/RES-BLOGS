@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Blog Three
-published: true
+title:  "Journal #Three [RES701] - Research" 
+author: Hayden Williams
+categories: [ RES701, Journal, Research ]
+image: assets/images/DES501-J2.jpeg
+featured: true
+hidden: true
 ---
 
 # Research Paradigms
