@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Journal #Three [RES701] - Research" 
+title:  "Journal #Three [RES701] - Paradigms" 
 author: Hayden Williams
-categories: [ RES701, Journal, Research ]
+categories: [ RES701, Journal, Paradigms ]
 image: assets/images/RES701-J3.jpg
 featured: true
 hidden: true
