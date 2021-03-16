@@ -78,7 +78,7 @@ Tied in with social paradigms is the view point that all truth is varying, socia
 There are three main key factors in social constructivism:
 
 
--The theory of social constructionism states that meaning and knowledge are socially created.
+- The theory of social constructionism states that meaning and knowledge are socially created.
 
 - Social constructionists believe that things that are generally viewed as natural or normal in society, such as understandings of gender, race, class, and disability, are socially constructed, and consequently aren’t an accurate reflection of reality.
 
@@ -128,7 +128,7 @@ In post modernism there are eight main characteristics:
 - That it is possible to construct general theories that explain nature and society, within the current human knowledge
 
 
-postmodernism | Definition, Doctrines, & Facts. (2021). Retrieved 16 March 2021, from https://www.britannica.com/topic/postmodernism-philosophy
+postmodernism Definition, Doctrines, & Facts. (2021). Retrieved 16 March 2021, from https://www.britannica.com/topic/postmodernism-philosophy
 
 
 Post modernism can be described as a set of critical, strategic, and rhetorical practices that employ difference, repitition, the trace, the simulacrum, and hyperreality; it then uses these concepts to destabilise other concepts like presense, identity, historical progress, epistemic certainty, and the univocity of meaning.
