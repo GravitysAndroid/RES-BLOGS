@@ -8,38 +8,10 @@ featured: true
 hidden: true
 ---
 
+
+
 # Research Paradigms
-
-
-## Classic Scientific
-
-
-### Realism
-
-
-Realism is 
-
-
-### Positivism
-
-
-Positivism is
-
-
-## Social Science
-
-
-### Constructivism
-
-
-Consructivism is
-
-
-
-### Interpretivism
-
-
-Interpretivism is
+There are many different types of paradigm; classic scientific, which contains: realism and positivism, social science, which contains: constuctivism and Interpretivism, and post modernism, which contains: nominalism and anti-positivism/relativism.
 
 
 ## Post-Modernism
