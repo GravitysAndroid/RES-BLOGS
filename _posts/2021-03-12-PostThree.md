@@ -9,14 +9,50 @@ hidden: true
 ---
 
 # Research Paradigms
+
+
 ## Classic Scientific
-Realism
-Positivism
+
+
+### Realism
+
+
+Realism is 
+
+
+### Positivism
+
+
+Positivism is
+
 
 ## Social Science
-Constructivism
-Interpretivism
+
+
+### Constructivism
+
+
+Consructivism is
+
+
+
+### Interpretivism
+
+
+Interpretivism is
+
 
 ## Post-Modernism
-Nominalism
-Anti-positivism/Relativism
+
+
+### Nominalism
+
+
+Nominalism is
+
+
+### Anti-positivism/Relativism
+
+
+Anti-positivism/relativism is
+
