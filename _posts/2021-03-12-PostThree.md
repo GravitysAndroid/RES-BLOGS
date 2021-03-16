@@ -66,7 +66,7 @@ The main concept of the scientific paradigm is that the scientific process is no
 In postivism there is a heavy focus on objectivity, knowability, and decutive logic. Taking a positivist look at things means that you would interpret society emperically and scientifically. Positivism also wants a value-free sociology, where the researches abandon their bias and values to seek out objective, emperical, and knowable truth. It really takes a step back and looks at things from a purely objective stance, that is highly scientific.
 
 
-Thomas S. Kuhn | American philosopher and historian. (2021). Retrieved 16 March 2021, from https://www.britannica.com/biography/Thomas-S-Kuhn
+Thomas S. Kuhn American philosopher and historian. (2021). Retrieved 16 March 2021, from https://www.britannica.com/biography/Thomas-S-Kuhn
 
 
 ## Social Science Paradigm
